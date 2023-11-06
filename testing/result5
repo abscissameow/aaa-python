@@ -1,0 +1,8 @@
+test_ddmmyyyy_format (test5.TestWhatIsYearNow) ... ok
+test_incorrect_format (test5.TestWhatIsYearNow) ... ok
+test_yyyymmdd_format (test5.TestWhatIsYearNow) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.003s
+
+OK
